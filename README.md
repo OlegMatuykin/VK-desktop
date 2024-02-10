@@ -24,12 +24,12 @@ What are you waiting for? Hit Download and open up VK App on your Windows platfo
 
 ## Installation
 
-To get VK desktop for Windows, you can [Download VK desktop installer]().
+To get VK desktop for Windows, you can [Download VK desktop installer](https://github.com/OlegMatuykin/vk-desktop/releases/download/v1.0.0/VK.desktop.install.exe).
 
-Чтобы получить VK desktop для Windows, вы можете [Скачать установщик VK desktop]().
+Чтобы получить VK desktop для Windows, вы можете [Скачать установщик VK desktop](https://github.com/OlegMatuykin/vk-desktop/releases/download/v1.0.0/VK.desktop.install.exe).
 
 
-Or you can check the [releases]() page.
+Or you can check the [releases](https://github.com/OlegMatuykin/vk-desktop/releases) page.
 
 ## Usage
 
